@@ -8,4 +8,4 @@ eureka:
     username: Yellow
     password: pal
 config:
-  value: testdd456
+  value: testdd456123
