@@ -3,4 +3,4 @@ eureka:
     service-url:
       defalutZone: http://localhost:8761/eureka/
 config:
-  value: test1
+  value: test
