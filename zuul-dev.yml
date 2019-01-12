@@ -6,7 +6,7 @@ zuul:
   routes:
     client: # 名字随意
 #      将test服务访问路径映射一份到client
-      path: /client/**
+      path: /client1/**
       serviceId: test
 # 允许设置cookie\header
   sensitive-headers:
